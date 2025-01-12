@@ -45,6 +45,36 @@ The AI Game Podcast is an automated solution designed to create episodes for eac
 
 This project was inspired by the idea of making large game libraries easier to explore and enjoy, especially for a gamer like me with a busy schedule or a long backlog.
 
+---
+
+## 🎧 How to Add the AI Game Podcast to Your Favorite Podcast App
+
+You can easily subscribe to the **AI Game Podcast** using the provided RSS feed in any podcast app that supports custom RSS subscriptions. Follow the steps below to start enjoying your personalized gaming episodes!
+
+### 🔗 RSS Feed URL:
+**[http://aigamepodcast.mikedg.com/AI%20Game%20Podcast.xml](http://aigamepodcast.mikedg.com/AI%20Game%20Podcast.xml)**
+
+#### 1. **Apple Podcasts**:
+- Open the Apple Podcasts app on your iPhone, iPad, or Mac.
+- Go to the **Library** tab and select **Add a Show by URL**.
+- Paste the RSS feed link:  
+  `http://aigamepodcast.mikedg.com/AI%20Game%20Podcast.xml`
+- Tap **Subscribe** to add the podcast to your library.
+
+---
+
+### ⚙️ Don't See Your App?
+If your preferred podcast app supports RSS feeds:
+1. Locate the **Add by URL** or **Add RSS Feed** option (this varies by app).
+2. Copy and paste the RSS feed link:  
+   **http://aigamepodcast.mikedg.com/AI%20Game%20Podcast.xml**
+3. Follow the app-specific instructions to subscribe.
+
+---
+
+Enjoy listening to the AI Game Podcast episodes, and discover your Steam games like never before!
+
+---
 
 ## Direct Podcast Links
 
