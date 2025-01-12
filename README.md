@@ -1,12 +1,12 @@
-# AI Game Podcast
+# Mike's AI Game Podcast
 
-Welcome to the **AI Game Podcast**, a personalized podcast that brings my Steam library to life, automatically generating episodes to help me discover and explore games I already own. Whether I'm commuting, driving, walking, or relaxing at home, I can easily dive into my game library without sitting down at the computer.
+Welcome to the **Mike's AI Game Podcast**, a personalized podcast that brings my Steam library to life, automatically generating episodes to help me discover and explore games I already own. Whether I'm commuting, driving, walking, or relaxing at home, I can easily dive into my game library without sitting down at the computer.
 
 ---
 
 ## 📖 About
 
-The AI Game Podcast is an automated solution designed to create episodes for each game in my Steam library, providing useful insights, memorable highlights, and details about games I may have forgotten. The episodes are rendered as audio .mp3 files and compiled into an easily accessible RSS feed, so I can listen to them wherever I prefer.
+The AI Game Podcast is an automated solution designed to create episodes for each game in my Steam library, providing useful insights, memorable highlights, and details about games I may have forgotten or haven't discovered yet. The episodes are rendered as audio .mp3 files and compiled into an easily accessible RSS feed, so I can listen to them wherever I prefer.
 
 ### Features:
 - **Game Discovery on the Go**: Audio episodes are generated for the games in my Steam library.
