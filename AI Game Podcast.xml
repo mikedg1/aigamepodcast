@@ -3,7 +3,13 @@
   <channel>
     <title>AI Game Podcast</title>
     <link>http://aigamepodcast.mikedg.com</link>
-    <description>Descriptions of all the games in Mike's game library..</description>
+    <description>AI Generated Podcasts for the games in Mike's game library..</description>
+    <image>
+    <url>http://aigamepodcast.mikedg.com/AI%20Game%20Podcast%20Cover.png</url>
+    <title>AI Game Podcast</title>
+    <link>http://aigamepodcast.mikedg.com</link>
+    </image>
+    
     <item>
       <title>Pinball FX3 - 2025-01-11 - Williams™ Pinball: Volume 2</title>
       <link>http://aigamepodcast.mikedg.com/2-Pinball FX3 - Williams™ Pinball: Volume 2-984180.mp3</link>
@@ -346,6 +352,76 @@
       <description>Episode about the game "My Little Universe" (App ID: 2328750).</description>
       <pubDate>Sun, 12 Jan 2025 01:19:46 GMT</pubDate>
       <enclosure url="http://aigamepodcast.mikedg.com/4-My Little Universe-2328750.mp3" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Gene Shift Auto: Deluxe Edition - 2025-01-12 - 2194030</title>
+      <link>http://aigamepodcast.mikedg.com/4-Gene Shift Auto: Deluxe Edition-2194030.mp3</link>
+      <description>Episode about the game "Gene Shift Auto: Deluxe Edition" (App ID: 2194030).</description>
+      <pubDate>Sun, 12 Jan 2025 12:05:10 GMT</pubDate>
+      <enclosure url="http://aigamepodcast.mikedg.com/4-Gene Shift Auto: Deluxe Edition-2194030.mp3" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Downfall - 2025-01-12 - A Slay the Spire Fan Expansion</title>
+      <link>http://aigamepodcast.mikedg.com/4-Downfall - A Slay the Spire Fan Expansion-1865780.mp3</link>
+      <description>Episode about the game "Downfall" (App ID: A Slay the Spire Fan Expansion).</description>
+      <pubDate>Sun, 12 Jan 2025 12:05:27 GMT</pubDate>
+      <enclosure url="http://aigamepodcast.mikedg.com/4-Downfall - A Slay the Spire Fan Expansion-1865780.mp3" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Astral Ascent - 2025-01-12 - 1280930</title>
+      <link>http://aigamepodcast.mikedg.com/4-Astral Ascent-1280930.mp3</link>
+      <description>Episode about the game "Astral Ascent" (App ID: 1280930).</description>
+      <pubDate>Sun, 12 Jan 2025 12:05:34 GMT</pubDate>
+      <enclosure url="http://aigamepodcast.mikedg.com/4-Astral Ascent-1280930.mp3" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>DOOM + DOOM II - 2025-01-12 - 2280</title>
+      <link>http://aigamepodcast.mikedg.com/4-DOOM + DOOM II-2280.mp3</link>
+      <description>Episode about the game "DOOM + DOOM II" (App ID: 2280).</description>
+      <pubDate>Sun, 12 Jan 2025 12:05:50 GMT</pubDate>
+      <enclosure url="http://aigamepodcast.mikedg.com/4-DOOM + DOOM II-2280.mp3" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Patron - 2025-01-12 - 1538570</title>
+      <link>http://aigamepodcast.mikedg.com/4-Patron-1538570.mp3</link>
+      <description>Episode about the game "Patron" (App ID: 1538570).</description>
+      <pubDate>Sun, 12 Jan 2025 12:05:59 GMT</pubDate>
+      <enclosure url="http://aigamepodcast.mikedg.com/4-Patron-1538570.mp3" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Arizona Sunshine - 2025-01-12 - 342180</title>
+      <link>http://aigamepodcast.mikedg.com/4-Arizona Sunshine-342180.mp3</link>
+      <description>Episode about the game "Arizona Sunshine" (App ID: 342180).</description>
+      <pubDate>Sun, 12 Jan 2025 12:14:01 GMT</pubDate>
+      <enclosure url="http://aigamepodcast.mikedg.com/4-Arizona Sunshine-342180.mp3" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Monument Valley 2 - 2025-01-12 - 1927740</title>
+      <link>http://aigamepodcast.mikedg.com/4-Monument Valley 2-1927740.mp3</link>
+      <description>Episode about the game "Monument Valley 2" (App ID: 1927740).</description>
+      <pubDate>Sun, 12 Jan 2025 12:14:20 GMT</pubDate>
+      <enclosure url="http://aigamepodcast.mikedg.com/4-Monument Valley 2-1927740.mp3" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Sakura Angels - 2025-01-12 - 342380</title>
+      <link>http://aigamepodcast.mikedg.com/4-Sakura Angels-342380.mp3</link>
+      <description>Episode about the game "Sakura Angels" (App ID: 342380).</description>
+      <pubDate>Sun, 12 Jan 2025 12:14:33 GMT</pubDate>
+      <enclosure url="http://aigamepodcast.mikedg.com/4-Sakura Angels-342380.mp3" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Flame Keeper - 2025-01-12 - 1374230</title>
+      <link>http://aigamepodcast.mikedg.com/4-Flame Keeper-1374230.mp3</link>
+      <description>Episode about the game "Flame Keeper" (App ID: 1374230).</description>
+      <pubDate>Sun, 12 Jan 2025 12:14:45 GMT</pubDate>
+      <enclosure url="http://aigamepodcast.mikedg.com/4-Flame Keeper-1374230.mp3" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>DiRT 2 - 2025-01-12 - 12840</title>
+      <link>http://aigamepodcast.mikedg.com/4-DiRT 2-12840.mp3</link>
+      <description>Episode about the game "DiRT 2" (App ID: 12840).</description>
+      <pubDate>Sun, 12 Jan 2025 12:14:59 GMT</pubDate>
+      <enclosure url="http://aigamepodcast.mikedg.com/4-DiRT 2-12840.mp3" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
