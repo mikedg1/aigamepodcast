@@ -1,2 +1,5 @@
 *.wav
 .DS_Store
+*.jpg
+*-temp-list.txt
+*.mp4
