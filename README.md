@@ -80,7 +80,6 @@ Enjoy listening to the AI Game Podcast episodes, and discover your Steam games l
 ---
 
 ## Direct Podcast Links
-
 1. ["Victor Vran"
 (Steam App ID: 345180)
 (Generator Version: Mike11)
