@@ -80,6 +80,7 @@ Enjoy listening to the AI Game Podcast episodes, and discover your Steam games l
 ---
 
 ## Direct Podcast Links
+> Click the title links below to access the podcast, or click on a screenshot to watch the videocast.
 <!-- CONTENT START -->
 1. <font size="5">[Tiny Life](https://pub-5caf46dd0bd7404f84357fdb286135cc.r2.dev/Mike11%7CTiny%20Life%7C1651490.mp3)</font><br/>In Tiny Life, you control a set of people that live together in a household. You take care of their daily needs, build their skills, forge new relationships... or just mess up their entire life in whatever way you can think of!<br/>2025-03-05<br/>
 <a href="https://store.steampowered.com/app/1651490"><img src="https://store.fastly.steamstatic.com/public/images/v6/logo_steam_footer.png"/></a> (Steam App ID: 1651490) (Generator Version: Mike11)<br/> <br/>[<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1651490/header.jpg" alt="Game Image 1" style="max-width: 200px; max-height: 100px;"/>](https://pub-5caf46dd0bd7404f84357fdb286135cc.r2.dev/Mike11%7CTiny%20Life%7C1651490.mp4)
